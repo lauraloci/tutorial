@@ -7,4 +7,4 @@ Aggiungete qui sotto il vostro nome:
 * Luca Verderame
 * Simone Aonzo
 * Karina Levina
-* Laura Lo Cicero
+* Laura Lo Cicero aaaaaaaaaaaaaa
